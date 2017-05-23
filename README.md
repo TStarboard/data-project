@@ -1,12 +1,14 @@
-# Basic Project
-## Basic Project Structure
+# Data Project
+## Data Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for A Data Project*
 
 **Java 8**
 
 * Maven
-* JUnit
+* TestNG
+* Log4j
+* Selenium Webdriver
 
 Java Project for SQA Boot Camp Program. 
 
